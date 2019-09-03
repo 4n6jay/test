@@ -4,6 +4,6 @@ git add
 git commit -m "message/comment about commit submitting"
 git commit --dry-run - tests commit prior to submitting
 git push "adds the commits to the repo"
-
+git pull "pulls down other submission"
 
 
