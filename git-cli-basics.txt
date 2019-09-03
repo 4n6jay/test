@@ -7,3 +7,5 @@ git push "adds the commits to the repo"
 git pull "pulls down other submission"
 
 escape : wc "saves and exits out of vi"
+
+git remote -v ; after cloning check to see correct path of fetch/push
