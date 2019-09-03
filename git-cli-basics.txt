@@ -1,0 +1,7 @@
+git clone [repository]
+git status
+git add
+git commit -m "message/comment about commit submitting"
+git commit --dry-run - tests commit prior to submitting
+
+
